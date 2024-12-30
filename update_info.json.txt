@@ -1,0 +1,5 @@
+{
+  "version": "2.0.0",
+  "update_url": "https://example.com/updates/app-v2.0.0.exe",
+  "changelog": "Added new features and fixed bugs."
+}
